@@ -18,6 +18,7 @@ SAP Integration Developer in Berlin, working with SAP Integration Suite (Cloud I
 
 - **[SAP CPI – S/4HANA Business Partner Integration](https://github.com/UdayPappu/sap-cpi-s4hana-business-partner)**
   An OAuth-protected iFlow that reads Business Partner data from the S/4HANA Cloud sandbox API and returns simplified JSON, with secure API key storage and error handling.
+  - [SAP API Management – Secured Proxy for the S/4HANA Business Partner API](https://github.com/UdayPappu/sap-apim-secured-s4hana-proxy): API proxy that verifies each caller's key, limits calls to 10 per minute and injects the backend key from an encrypted Key Value Map, so the iFlow never handles the S/4HANA credential.
 
 ## Contact
 
